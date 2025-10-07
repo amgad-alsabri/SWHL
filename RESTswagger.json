@@ -4,7 +4,7 @@
     "title": "Dynamic SharePoint Lists",
     "version": "1.0"
   },
-  "host": "{SiteUrl}",
+  "host": "traveflow.traveport-test.de",
   "schemes": ["https"],
   "paths": {
     "/_api/web/lists/GetByTitle('{ListTitle}')/items": {
